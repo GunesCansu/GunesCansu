@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**GunesCansu/GunesCansu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Currently Working On
+- Python
+- Machine Learning
 
-Here are some ideas to get you started:
+## 🤔 Looking For Help With
+- Exploring new technologies
+- Improving cloud and ML skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask Me About
+- Python
+- Machine Learning
+- 
+
+## 📫 How to Reach Me
+- 📧 Email: c.gunes@live.fr
+
+## ⚡ Fun Fact
+- I once repaired a robot using lipstick — McGyver style 😄
+``
